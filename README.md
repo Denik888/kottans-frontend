@@ -8,3 +8,5 @@
 ![Linux_Quiz_4] (https://github.com/Denik888/kottans-frontend/blob/main/task_linux_cli/Linux_Quiz_4.png)  
 1. Linux Survival (4 modules) - з Linux ніколи не працював, тільки з Windows, тому новим було абсолютно все. Ознайомився з синтаксисом, не впевнений що буду використовувати в майбутньому.  
 2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1 та Частина 2 - необхідні знання для загального розуміння роботи HTTP. В подальшому впевнений, що знадобляться.
+## Git Collaboration
+![Learn Git Branching - 1](/task_git_collaboration/Learn Git Branching - 1.png)
