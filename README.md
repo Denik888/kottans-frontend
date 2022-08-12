@@ -1,5 +1,4 @@
-# kottans-frontend
-Доброго дня!
+## Git Basics
 До цього ніколи не мав справу з GIT. Тому було цікаво ознайомитись із цією системою. В розділі Git та GitHub прослухав тижні 1 і 2 курсу Introduction to Git and GitHub, а також пройшов необхідні рівні на learngitbranching.js.org. Було цікаво ті пізнавально.
 ## Linux CLI, and HTTP
 ![Linux_Quiz_1](https://github.com/Denik888/kottans-frontend/blob/main/task_linux_cli/Linux_Quiz_1.png)  
