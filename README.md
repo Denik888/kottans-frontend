@@ -26,3 +26,17 @@
 
 1. Прослухав тижні 3 і 4 курсу Introduction to Git and GitHub. Про те як взаємодіяти з сервісом, як працювати цим сервісом в команді, можливі конфлікти та їх рішення, варіанти використання git rebase та інше. Це все для мене зараз є новим, думаю, що в подальшому буду використовувати цей сервіс.  
 2. Пройшов необхідні рівні learngitbranching.js.org. Було трішки важкувато для освоєння, думаю що якщо в подальшому буде більше практики, то краще закріпиться вміння користуватися командами GIT.
+## Intro to HTML and CSS
+
+<details><summary>Screenshoots</summary>
+
+   1. ![Introduction to HTML5 1-week](https://github.com/Denik888/kottans-frontend/blob/main/task_html_css_intro/Introduction%20to%20HTML5-1-week.png)
+   2. ![Introduction to HTML5 2-week](https://github.com/Denik888/kottans-frontend/blob/main/task_html_css_intro/Introduction%20to%20HTML5-2-week.png)
+   3. ![Learn HTML and CSS](https://github.com/Denik888/kottans-frontend/blob/main/task_html_css_intro/Learn%20HTML%20and%20CSS.png)
+
+</details>
+
+Раніше вже був знайомий з синтаксисом HTML і CSS. Оновив свої знання.
+1. Прослухав тижні 1 і 2 (до Introduction to Responsive Design) курсу Intro to HTML & CSS. Раніше не стикався з bootstrap та медіа-запитами (@media). Також новим був метод виявлення приорітетів у розділі концепції специфічності, які комбінації селекторів більш специфічні, тобто більш пріоритетні, ніж інші, що це обчислюється у принципі підрахунків балів. Підрахунок відбувається за такими параметрами: style = "..."; ID; Class, pseudo-class, attribute; # of Elements. Також те, що завдяки параметру !important можна перекрити всі умови і виконається саме це.
+2. Learn HTML(Eng) - зрозуміла подача матеріалу, оновив свої знання.
+3. Learn CSS(Eng) - зрозуміла подача матеріалу, оновив свої знання.
