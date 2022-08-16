@@ -1,4 +1,4 @@
-# kottans-frotend
+# kottans-frontend
 Всім привіт, мене звуть Денис. Дякую за можливість пройти цей курс.
 
 ## Git Basics
