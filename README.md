@@ -63,3 +63,19 @@
    1. ![Grid_Gardeny](https://github.com/Denik888/kottans-frontend/blob/main/task_responsive_web_design/Grid_Garden.png)
 
 </details>
+
+## JS Basics
+
+Прослухав лекцію Вступ до JS та виконав вправи FreeCodeCamp. Раніше можна сказати майже не стикався з JavaScript. Тому довелося вивчати майже з нуля. Було важкувато з рішенням складніших завдань в FreeCodeCamp, тому доводилося часто дивитись в підказки.
+
+<details><summary>Screenshoots</summary>
+
+   1. ![JavaScript Basics lecture](https://github.com/Denik888/kottans-frontend/blob/main/task_js_basics/JavaScript%20Basics_1.png)
+   2. ![Basic JavaScript](https://github.com/Denik888/kottans-frontend/blob/main/task_js_basics/Basik_JavaScript.png)
+   3. ![ES6 Challenges](https://github.com/Denik888/kottans-frontend/blob/main/task_js_basics/ES6.png)
+   4. ![Basic Data Structures](https://github.com/Denik888/kottans-frontend/blob/main/task_js_basics/Basik_Data_Structures.png)
+   5. ![Basic Algorithm Scripting](https://github.com/Denik888/kottans-frontend/blob/main/task_js_basics/Basic_Algorithm_Scripting.png)
+   6. ![Functional Programming](https://github.com/Denik888/kottans-frontend/blob/main/task_js_basics/Functional_Programming.png)
+   7. ![Algorithm Scripting Challenges](https://github.com/Denik888/kottans-frontend/blob/main/task_js_basics/Algorithm_Scripting_Challenges.png)
+
+</details>
